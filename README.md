@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 Hi! My name's @garrettomi
 - 🌉 4th generation Japanese American from the SF Bay Area now living in Tokyo, Japan 🇯🇵
-- 🦋 Soon-to-be graduate of Code Chrysalis' Immersive program
+- 🦋 Soon-to-be graduate of Code Chrysalis' Immersive program [🏠 TEAM KINJO, DEMO DAY JUNE 29, 2023]
 
 
 ### Tech Stack 📚
