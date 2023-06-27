@@ -30,6 +30,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-FF424D?style=flat-square&logo=django&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-1A202C?style=flat-square&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-0B0C0D?style=flat-square&logo=knex&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
