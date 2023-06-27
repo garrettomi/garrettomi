@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center">
   <strong>Thanks for visiting my page 🙌</strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="GIF Description" width="250" height="250">
