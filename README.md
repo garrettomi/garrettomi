@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="GIF Description" width="250" height="250">
+  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="GIF Description" width="225" height="225">
 </p>
 
 - 🧑🏻‍💻 Hi! My name's @garrettomi
