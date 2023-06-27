@@ -1,4 +1,6 @@
-### Thanks for stopping by my page 👋
+### Thanks for visting my page 🙌
+
+<img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="GIF Description" width="250" height="250">
 
 - 🧑🏻‍💻 Hi! My name's @garrettomi
 - 🌉 4th generation Japanese American from the SF Bay Area now living in Tokyo, Japan 🇯🇵
