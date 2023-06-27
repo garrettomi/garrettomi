@@ -37,24 +37,17 @@
 
 ### 🛠️ Currently Working On: [KINJO](https://www.kinjo-japan.com/) (Full Stack Engineer)
 
-#### 🔤 Language:
+#### Utilizing with the following Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-#### 🎨 Frontend:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-#### 🗺️ User-Interactive Map:
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![React-Leaflet](https://img.shields.io/badge/React--Leaflet-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![OpenCage AI](https://img.shields.io/badge/OpenCage_AI-FF6E40?style=flat-square&logo=opencagedata&logoColor=white)
-
-#### 🖥️ Backend:
 ![Prisma](https://img.shields.io/badge/Prisma-1A202C?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-#### 🚀 Deployment:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
