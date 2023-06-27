@@ -8,7 +8,7 @@
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-### Tech Stack 📚
+###  Tech Stack 📚 
 #### 🔤 Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-276DC3?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,7 +35,8 @@
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-### 🛠️ Currently Working On: [KINJO](https://www.kinjo-japan.com/) (Full Stack Engineer)
+### Currently Working On 🛠️ 
+### 🏠 [KINJO](https://www.kinjo-japan.com/) (Full Stack Engineer)
 
 #### Contributing with the following technologies:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
