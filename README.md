@@ -55,3 +55,10 @@
 
 #### 🚀 Deployment:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+### 📈 My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=garrettomi&show_icons=true&count_private=true&hide=contribs&hide_rank=true&line_height=24&title_color=EDF2F4&icon_color=38B2AC&text_color=EDF2F4&bg_color=4A4E69)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettomi&layout=compact&title_color=EDF2F4&text_color=EDF2F4&bg_color=4A4E69)
