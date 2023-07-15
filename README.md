@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 Hi! My name's @garrettomi
 - 🌉 4th generation Japanese American from the SF Bay Area now living in Tokyo, Japan 🇯🇵
-- 🦋 Code Chrysalis graduate (CC30, 🏠 TEAM KINJO)
+- 🦋 Code Chrysalis graduate (🏠 TEAM KINJO)
 - 📩 Contact me at omigarrett@gmail.com or connect with me through LinkedIn
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
