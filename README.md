@@ -38,6 +38,13 @@
 
 ###  Projects 🛠
 ###  KINJO 🏡
+![React](https://img.shields.io/badge/React-Contributor-blue)
+![Leaflet](https://img.shields.io/badge/Leaflet-Contributor-green)
+![Mapbox](https://img.shields.io/badge/Mapbox-Contributor-orange)
+![Prisma](https://img.shields.io/badge/Prisma-Contributor-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Contributor-blue)
+![Typescript](https://img.shields.io/badge/Typescript-Contributor-blue)
+![Heroku](https://img.shields.io/badge/Heroku-Contributor-purple)
 [KINJO](https://www.kinjo-japan.com/)
 
 ###  Typemon ⌨️
