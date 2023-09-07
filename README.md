@@ -37,8 +37,7 @@
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ###  Projects 🛠
-###  KINJO 🏡
-### [KINJO](https://www.kinjo-japan.com/)
+### [KINJO 🏡](https://www.kinjo-japan.com/)
 ![React](https://img.shields.io/badge/React-Contributor-blue)
 ![Leaflet](https://img.shields.io/badge/Leaflet-Contributor-green)
 ![Mapbox](https://img.shields.io/badge/Mapbox-Contributor-orange)
