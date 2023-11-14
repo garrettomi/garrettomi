@@ -37,20 +37,5 @@
 
 ###  Projects 🛠
 ### [KINJO 🏡](https://www.kinjo-japan.com/)
-![React](https://img.shields.io/badge/React-Contributor-blue)
-![Leaflet](https://img.shields.io/badge/Leaflet-Contributor-green)
-![Mapbox](https://img.shields.io/badge/Mapbox-Contributor-orange)
-![Prisma](https://img.shields.io/badge/Prisma-Contributor-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Contributor-blue)
-![Typescript](https://img.shields.io/badge/Typescript-Contributor-blue)
-![Heroku](https://img.shields.io/badge/Heroku-Contributor-purple)
-
-
 ### [Typemon ⌨️](https://solo-mvp-frontend.vercel.app/login)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
- ![Knex.js](https://img.shields.io/badge/Knex.js-4B0082?style=for-the-badge)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
