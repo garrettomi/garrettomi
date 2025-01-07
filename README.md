@@ -40,7 +40,3 @@
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-###  Projects 🛠
-### [KINJO 🏡](https://www.kinjo-japan.com/)
-### [Typemon ⌨️](https://solo-mvp-frontend.vercel.app/login)
-
